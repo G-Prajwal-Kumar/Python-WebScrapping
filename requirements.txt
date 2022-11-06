@@ -9,6 +9,8 @@ outcome==1.2.0
 pycparser==2.21
 PySocks==1.7.1
 selenium==4.6.0
+beautifulsoup4==4.11.1
+openpyxl=3.0.10
 sniffio==1.3.0
 sortedcontainers==2.4.0
 trio==0.22.0
